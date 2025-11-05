@@ -5,13 +5,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zartasha-kanwal&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
-<div align="center">
-  ![Followers](https://img.shields.io/github/followers/Zartasha-kanwal?style=social)
-  ![PRs](https://img.shields.io/badge/Pull%20Requests-50+-blue)
-  ![Open Issues](https://img.shields.io/badge/Open%20Issues-20-red)
-</div>
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zartasha-kanwal&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
