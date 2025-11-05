@@ -47,7 +47,6 @@
   <img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" height="45" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=apollo" alt="Apollo Client" height="45" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=tanstack" alt="TanStack" height="45" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=responsive" alt="Responsive Design" height="45" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=cross-browser" alt="Cross-Browser Compatibility" height="45" style="margin: 5px;" />
 </p>
 <h4 align="left">Other Tools & Skills:</h4>
