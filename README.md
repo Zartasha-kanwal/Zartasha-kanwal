@@ -1,31 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zartasha kanwal!</h1>
 <h3 align="center">React & Next.js Frontend Developer with a passion for clean code, modern UI design, and seamless user experiences.</h3>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zartasha-kanwal&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Zartasha-kanwal's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zartasha-kanwal&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zartasha-kanwal&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
-
-<h3 align="left">More About Me:</h3>
-
-- 📫 How to reach me: [zartashakanwal529@gmail.com](mailto:zartashakanwal529@gmail.com)
-- 👨‍💻 **[My Portfolio](https://zartasha-resume.vercel.app/)**
-
-<h3 align="left">Connect with me:</h3>
-<div class="social-icons-wrapper">
-<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://github.com/Zartasha-kanwal" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
-    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-  <a href="https://linkedin.com/in/in/zartasha-kanwal" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
-  </a>
-</p>
-</div>
-
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
@@ -51,5 +26,29 @@
 <p>REST APIs, UI/UX Principles, Chrome Developer Tools,Zustand,Vercel</p>
 </div>
 
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zartasha-kanwal&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Zartasha-kanwal's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zartasha-kanwal&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zartasha-kanwal&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
+</p>
+
+<h3 align="left">More About Me:</h3>
+
+- 📫 How to reach me: [zartashakanwal529@gmail.com](mailto:zartashakanwal529@gmail.com)
+- 👨‍💻 **[My Portfolio](https://zartasha-resume.vercel.app/)**
+
+<h3 align="left">Connect with me:</h3>
+<div class="social-icons-wrapper">
+<p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
+<a href="https://github.com/Zartasha-kanwal" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
+    <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
+  <a href="https://linkedin.com/in/in/zartasha-kanwal" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
+  </a>
 </p>
 </div>
+
