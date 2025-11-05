@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zartasha kanwal!</h1>
+<h3 align="center">React & Next.js Frontend Developer with a passion for clean code, modern UI design, and seamless user experiences.</h3>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zartasha-kanwal&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Zartasha-kanwal's GitHub Stats" /></p>
 
@@ -9,8 +10,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zartasha-kanwal&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
 </p>
-
-<h3 align="center">React & Next.js Frontend Developer with a passion for clean code, modern UI design, and seamless user experiences.</h3>
 
 <h3 align="left">More About Me:</h3>
 
