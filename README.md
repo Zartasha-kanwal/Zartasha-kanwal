@@ -29,9 +29,6 @@
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
- <div class="skills-section">
-<h3 align="left">Languages and Tools:</h3>
-<p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="margin: 5px;" />
@@ -54,7 +51,7 @@
   <img src="https://skillicons.dev/icons?i=cross-browser" alt="Cross-Browser Compatibility" height="45" style="margin: 5px;" />
 </p>
 <h4 align="left">Other Tools & Skills:</h4>
-<p>REST APIs, UI/UX Principles, Chrome Developer Tools</p>
+<p>REST APIs, UI/UX Principles, Chrome Developer Tools,Vercel</p>
 </div>
 
 </p>
