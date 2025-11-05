@@ -46,7 +46,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="margin: 5px;" />
   <img src="https://skillicons.dev/icons?i=apollo" alt="Apollo Client" height="45" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/TanStack-Redux%20Toolkit-purple?style=for-the-badge" alt="TanStack" height="45" style="margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=cross-browser" alt="Cross-Browser Compatibility" height="45" style="margin: 5px;" />
 </p>
 <h4 align="left">Other Tools & Skills:</h4>
 <p>REST APIs, UI/UX Principles, Chrome Developer Tools,Zustand,Vercel</p>
