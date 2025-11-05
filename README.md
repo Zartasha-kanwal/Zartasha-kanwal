@@ -5,9 +5,10 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zartasha-kanwal&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zartasha-kanwal&theme=default&hide_border=true" alt="GitHub Streak Stats">
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zartasha-kanwal&theme=default" alt="GitHub Streak Stats" />
+</div>
+
 
 
 <p align="center">
