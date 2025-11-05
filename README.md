@@ -29,20 +29,33 @@
 <div class="skills-section">
 <h3 align="left">Languages and Tools:</h3>
 <p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="vertical-align: middle; margin: 5px;" />
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="vertical-align: middle; margin: 5px;" />
+ <div class="skills-section">
+<h3 align="left">Languages and Tools:</h3>
+<p style="text-align: left; display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
+  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="45" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=sass" alt="Sass" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" height="45" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=webpack" alt="Webpack" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=redux" alt="Redux" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=npm" alt="npm" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=zustand" alt="Zustand" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=apollo" alt="Apollo Client" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=tanstack" alt="TanStack" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=responsive" alt="Responsive Design" height="45" style="margin: 5px;" />
+  <img src="https://skillicons.dev/icons?i=cross-browser" alt="Cross-Browser Compatibility" height="45" style="margin: 5px;" />
 </p>
-<h4 align="left">Other Skills:</h4>
-<p>Vercel</p>
+<h4 align="left">Other Tools & Skills:</h4>
+<p>REST APIs, UI/UX Principles, Chrome Developer Tools</p>
+</div>
+
+</p>
 </div>
