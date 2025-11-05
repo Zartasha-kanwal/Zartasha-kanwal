@@ -6,11 +6,8 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zartasha-kanwal&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Zartasha-kanwal&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Zartasha-kanwal&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
 </div>
-
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zartasha-kanwal&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
