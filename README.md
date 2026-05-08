@@ -27,9 +27,13 @@
 </div>
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Zartasha-kanwal&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Zartasha-kanwal's GitHub Stats" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zartasha-kanwal&show_icons=true&theme=default&hide_border=true" />
+</p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zartasha-kanwal&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zartasha-kanwal&layout=compact&theme=default&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zartasha-kanwal&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />
