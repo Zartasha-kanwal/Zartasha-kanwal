@@ -28,11 +28,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zartasha-kanwal&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zartasha-kanwal&show_icons=true&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zartasha-kanwal&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zartasha-kanwal&layout=compact&theme=default&hide_border=true" />
 </p>
 
 <p align="center">
